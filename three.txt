@@ -4,4 +4,4 @@ created one-branch file, hi
 
 change this file
 created one-branch file
-This line is added by Aman.
+delete 7th line
